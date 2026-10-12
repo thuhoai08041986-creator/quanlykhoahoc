@@ -1,0 +1,8 @@
+wwwroot\css\site.css
+wwwroot\uploads\courses\.gitkeep
+wwwroot\images\courses\sql.svg
+wwwroot\images\courses\react.svg
+wwwroot\images\courses\python.svg
+wwwroot\images\courses\photoshop.svg
+wwwroot\images\courses\csharp.svg
+wwwroot\images\courses\aspnet.svg
